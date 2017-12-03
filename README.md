@@ -9,7 +9,7 @@ Which among the 4 top English Premier League teams (Chelsea, Arsenal,
 - https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._seasons
 - https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons
 - https://en.wikipedia.org/wiki/List_of_Manchester_City_F.C._seasons
-- https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._seasons 
+- https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._seasons
 
 # Analysis
 
