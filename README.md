@@ -6,10 +6,10 @@ Which among the 4 top English Premier League teams (Chelsea, Arsenal,
         performer over the period 2002 to 2016?
 
 # Data Sources
-- https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._seasons [https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._seasons]
-- https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons [https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons]
-- https://en.wikipedia.org/wiki/List_of_Manchester_City_F.C._seasons [https://en.wikipedia.org/wiki/List_of_Manchester_City_F.C._seasons]
-- https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._seasons [https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._seasons]
+- https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._seasons
+- https://en.wikipedia.org/wiki/List_of_Manchester_United_F.C._seasons
+- https://en.wikipedia.org/wiki/List_of_Manchester_City_F.C._seasons
+- https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._seasons 
 
 # Analysis
 
